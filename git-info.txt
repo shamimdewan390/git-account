@@ -1,0 +1,76 @@
+==================================================================
+==================================================================
+Account in githut & file uploaded documentation
+==================================================================
+==================================================================
+
+****	github is a tools.. jar dhara softwer er version control kora jae......
+
+
+1st:-	go to "git-scm.com" and download "git for windows" or any systems........
+
+2nd:-	account in "github.com"(good prectice is.. "gmail er @ er ager ta user name dibe. 
+	For example="shamimdewan343@gmail.com" & user name="shamimdewan343")
+=======================================================================
+Create new repository:
+
+a) repository name:
+b) Description (optional)
+c) Public or Privet
+d) Initialize this repository with a README(check box click)
+=======================================================================
+
+3rd:-	Go to "index" file location(je life or folder ta repository te upload hobe) 
+	And right botton click then click "Git bush here"
+
+4th:-	write "ls(list of file)" for mac & "dir" for windows.
+
+5th:-	Write="git config --global user.name "hacksaw390"
+	(user.name e github e j user ta deya hoeche oita dite hobe)"
+***	{then Wirte "git config --global user.name(user name ta moche ero sing dilei hobe)}
+
+
+6th:-	Write="git config --global user.email "shamimdewan343@gmal.com"
+	(user.email e github e j user ta deya hoeche oita dite hobe)
+***	{then Wirte "git config --global user.email"(email ta moche ero sing dilei hobe)}
+	[pc er sathe repository er akta link hobe]
+
+7th:-	Write "git clone https://github.com/hacksaw390/fast-git"
+	(github er repository er link ta dite hobe)
+	{link "URL" thekeo neya jabe & "Clone or download" thekeo neya jabe}
+	{repository download on PC}
+
+8th:-	Wirte "cd fast-git"
+	(cd & repository file er name)
+
+
+9th:-	ki ki list ache dekhar jonno "ls"
+
+
+10th:-	Write "git status"
+
+******* file upload korar jonno
+
+11th:- 	Wirte "git add ."
+
+12th:-	write "git commit -m "new index.php file create"(Write file related something)"
+
+13th:-	Write "git push origin master"
+
+14th:-	Write "user name"(github e j user deya ache)
+
+15th:-	Write "password"(github e j password deya ache)
+
+***** 	github er repository te file upload hoe jabe********
+===========================================================================
+===========================================================================
+***	 
+	first e file location er sathe git repository er sathe link korate hobe. then...
+	j file uploade kora dorkar hobe oi file er location e gie "git push here" e gie 4 ti kaj
+
+	1st: "git add ."
+	2nd: "git commit -m "file related text""
+	3rd: "git push origin master"
+	4t:  "user & password"
+=============================================================================
+=============================================================================
