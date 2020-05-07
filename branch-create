@@ -1,0 +1,14 @@
+1. branch create korar jonno
+git checkout -b shobseba_V1.0 (git checkout -b branch er name)
+--------------------
+2. branch change korar jonno
+git checkout master (git checkout branch er name)
+-------------
+3.
+
+----------------
+4. kicho chenge korle ta branch e add korar jonno
+    =>git add .
+    =>git commit -m "remove falto code"
+    =>git pull origin master
+    =>git push -u origin shobseba_V1.0 (git push -u origin branch er name)
